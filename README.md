@@ -8,5 +8,5 @@ Adding delay to any synth can add fantastic depth to the sonic soundscape. In th
 
 Just a quick note on my modular synth. The one that I built is a bit of a cheats version where most of the modules are powered by an Arduino Nano. It means that I don't have to worry about tuning, playing around with 1v/octave controlled voltages etc. Everything is always in tune and simple to use in my cheats modular synth :)
 
+![thumbnail_Photoroom_20250612_161633](https://github.com/user-attachments/assets/63583038-fa5c-4888-9746-d24214d8a851)
 
-![Uploading thumbnail_Photoroom_20250612_161633.jpg…]()
