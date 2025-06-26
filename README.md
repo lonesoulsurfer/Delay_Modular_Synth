@@ -4,7 +4,7 @@
 
 Adding delay to any synth can add fantastic depth to the sonic soundscape. This build uses an Arduino Nano to create a digtal delay that can be used on a modular synths or as it's own stand along synth. It's an easy build with minimal components needed and the finished module sounds great!
 
-The original schematic (see below) had some more features which I removed as they didn't sound great with my modular synth set-up.  I had to also make a change to the values of 2 capacitors for the input and output jacks as I was getting to much feedback.  This doesn;t effect the delay at all and removes most if not all of the noise.
+The original schematic (see below) had some additional features which I removed as they didn't sound great with my modular synth set-up.  I had to also make a change to the values of 2 capacitors connected to the input and output audio sockets as I was getting too much feedback.  This doesn't effect the delay at all and removes most if not all of the noise.
 
 Original build
 https://projecthub.arduino.cc/CesarSound/echotrek-digital-delay-echo-audio-effects-with-arduino-c4f2fd
