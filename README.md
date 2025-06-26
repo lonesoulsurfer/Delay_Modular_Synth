@@ -11,5 +11,7 @@ https://projecthub.arduino.cc/CesarSound/echotrek-digital-delay-echo-audio-effec
 
 Just a quick note on my modular synth. The one that I built is a bit of a cheats version where most of the modules are powered by an Arduino Nano. It means that I don't have to worry about tuning, playing around with 1v/octave controlled voltages etc. Everything is always in tune and simple to use in my cheats modular synth :)
 
+I've got a little space left in my current Eurorack to add another module which will either be a low pass filter or a sync in/sync out module.
+
 ![thumbnail_Photoroom_20250612_161633](https://github.com/user-attachments/assets/77127f32-a138-48f3-bc33-1fc7c358af9e)
 
